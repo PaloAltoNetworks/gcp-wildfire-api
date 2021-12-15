@@ -1,4 +1,4 @@
-module github.com/salsop/wildfire-api-demo-cloud-function
+module github.com/paloaltonetworks/gcp-wildfire-api
 
 go 1.16
 
